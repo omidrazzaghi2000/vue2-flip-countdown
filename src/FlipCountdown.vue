@@ -292,7 +292,7 @@ export default {
     display: block;
     height: @halfHeight;
     color: rgb(255, 255, 255);
-    background: #222;
+    background: #E60058;
     padding: 0.23em 0.15em 0.4em;
     border-radius: @borderRadius @borderRadius 0 0;
     backface-visibility: hidden;
@@ -310,7 +310,7 @@ export default {
     display: block;
     height: @halfHeight;
     color: rgb(255, 255, 255);
-    background: #222;
+    background: #E60058;;
     padding: 0.23em 0.15em 0.4em;
     border-radius: @borderRadius @borderRadius 0 0;
     backface-visibility: hidden;
@@ -328,8 +328,8 @@ export default {
     position: absolute;
     top: 50%;
     left: 0;
-    border-top: solid 1px #000;
-    background: #393939;
+    border-top: solid 0px #000;
+    background: #E60058;;
     border-radius: 0 0 @borderRadius @borderRadius;
     pointer-events: none;
     overflow: hidden;
