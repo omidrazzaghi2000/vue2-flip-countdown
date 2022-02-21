@@ -8,10 +8,10 @@ module.exports = {
   entry: path.join(__dirname, '/src/FlipCountdown.vue'),
   output: {
     path: path.join(__dirname, '/dist/'),
-    filename: 'vue2-flip-countdown.js',
+    filename: 'vue2-flip-countdown-2.js',
 
     libraryTarget: 'umd',
-    library: 'vue2-flip-countdown',
+    library: 'vue2-flip-countdown-2',
     umdNamedDefine: true
   },
   module: {
