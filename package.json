@@ -5,7 +5,7 @@
   "main": "dist/vue2-flip-countdown.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philipjkim/vue2-flip-countdown.git"
+    "url": "git+https://github.com/omidrazzaghi2000/vue2-flip-countdown.git"
   },
   "keywords": [
     "countdown",
